@@ -1,7 +1,5 @@
 # css-main.css
 
-ce the following inside main.css:
-
 body {
     margin: 60px auto;
     width: 70%;
